@@ -4,6 +4,10 @@
 ## Description:
 This process involves analyzing shopping data to find patterns and associations between products that are frequently bought together. The analysis starts by reading the shopping order data and the product information. It identifies how often individual products and pairs of products are bought together.
 
+## Dataset:
+
+The dataset used is: 'https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset?select=products.csv'
+
 ## Steps Involved:
 
 **Calculating Frequency and Support**: Determine how often each product is purchased and calculate the percentage of total orders this represents (support).
